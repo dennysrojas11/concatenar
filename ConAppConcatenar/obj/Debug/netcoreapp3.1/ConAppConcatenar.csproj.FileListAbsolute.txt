@@ -1,0 +1,13 @@
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppConcatenar\ConAppConcatenar\bin\Debug\netcoreapp3.1\ConAppConcatenar.exe
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppConcatenar\ConAppConcatenar\bin\Debug\netcoreapp3.1\ConAppConcatenar.deps.json
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppConcatenar\ConAppConcatenar\bin\Debug\netcoreapp3.1\ConAppConcatenar.runtimeconfig.json
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppConcatenar\ConAppConcatenar\bin\Debug\netcoreapp3.1\ConAppConcatenar.runtimeconfig.dev.json
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppConcatenar\ConAppConcatenar\bin\Debug\netcoreapp3.1\ConAppConcatenar.dll
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppConcatenar\ConAppConcatenar\bin\Debug\netcoreapp3.1\ConAppConcatenar.pdb
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppConcatenar\ConAppConcatenar\obj\Debug\netcoreapp3.1\ConAppConcatenar.csprojAssemblyReference.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppConcatenar\ConAppConcatenar\obj\Debug\netcoreapp3.1\ConAppConcatenar.AssemblyInfoInputs.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppConcatenar\ConAppConcatenar\obj\Debug\netcoreapp3.1\ConAppConcatenar.AssemblyInfo.cs
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppConcatenar\ConAppConcatenar\obj\Debug\netcoreapp3.1\ConAppConcatenar.csproj.CoreCompileInputs.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppConcatenar\ConAppConcatenar\obj\Debug\netcoreapp3.1\ConAppConcatenar.dll
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppConcatenar\ConAppConcatenar\obj\Debug\netcoreapp3.1\ConAppConcatenar.pdb
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppConcatenar\ConAppConcatenar\obj\Debug\netcoreapp3.1\ConAppConcatenar.genruntimeconfig.cache
